@@ -97,8 +97,7 @@
      [+] Envia ala victima = https://1d16900a.ngrok.io
      [+] Interactuando ala victima...
 
-# Example 
-
+# Remember that the link just takes the picture in whatzapp or in telegram
  ![Screenshot_20191202-165136_WhatsApp~01](https://user-images.githubusercontent.com/46208706/70001918-26ab7c00-1524-11ea-8b40-1c478ea276ec.jpg)
            
               
