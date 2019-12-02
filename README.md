@@ -22,75 +22,40 @@
      el link solo saca la foto en Whatzapp o en telegram u otro chat
      ok!
 # Usage
-  _____________________________________________________________________
-            ___           _,.---,---.,_
-            |         ,;~'             '~;,
-            |       ,;                     ;,
-   Frontal  |      ;                        ; ,--- Supraorbital Foramen
-    Bone    |     ,'                        /'
-            |    ,;                       /' ;,
-            |    ; ;      .          . <-'  ; |
-            |__  | ;   ______       ______   ;<----- Coronal Suture
-           ___   |  '/~ ~ . ~ ~\'  |
-           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
- Maxilla,  |      |   |        }:{        | <------ Orbit
-Nasal and  |      |   l       / | \       !   |
-Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
-  Bones    |      |    ----;' / | \  ;-<--------- Infraorbital Foramen
-           |__     \__.       \/^\/       .__
-              ___   V| \                 / |V <--- Mastoid Process
-              |      | |T~\___!___!___/~T| |
-              |      | | IIII_I_I_I_IIII | |
-     Mandible |      |  \ III I I I III,/  |
-              |       \    ~~~~~~~~~~
-              |         \   .       . <-x---- Mental Foramen
-              |__         \.    ^    .
-                            ^~~~^~~~^
-  _________________________________________________________________
-                    Created by @CesarHackGray
-                      Usage: show options
+  
+            
+            
+            
+   
+    
 
-FotoSploit> show options
+  
+           
+              
+              
+              
+     
+ 
+              
+                      
+  
+ 
+ 
 
- ===============
- Cesar Hack Gray
- ===============
+   
 
-   Comandos          descripsion
+   
+   
+   
+   
+   
+   
 
-   show options      opciones
-   set foto          [option]
-   set title url     [Titulo]
-   set view          [FACEBOOK][YOUTUBE]
-   GO                Comenzar
-   run               Comenzar
-   exit              Salir
-
-   set title url Cesar-Hack-Gray (example)
-   set foto [youtube] [FreeFire] [PUBG]
-   [Anime] [pornografia] [Bokep] [facebook]
-   [/sdcard/example.jpg]
+   
 
 
-   SET FOTO :
-   SET VIEW :
-   SET TITLE URL :
 
-FotoSploit> set foto /sdcard/foto.jpg
-[+] FOTO => /sdcard/foto.jpg
-FotoSploit> set title url Name-Victim
-[+] Name => Name-Victim
-FotoSploit> set view YOUTUBE
-[+] VISTA => www.youtube.com
-FotoSploit> GO
-[+] Uploading -> /sdcard/foto.jpg...
-[+] Abriendo servidores...
-[+] Abriendo servidor php...
-[+] Abriendo servidor ssh...
-[+] Abriendo servidor ngrok..
-[+] Descargando ngrok full....
-[+] Obteniendo URLs..
-[+] Servicio de ayuda = https://t.me/CesarGray
-[+] Envia ala victima = http://localhost:5756
-[+] Envia ala victima = https://1d16900a.ngrok.io
-[+] Interactuando ala victima...
+
+
+
+
