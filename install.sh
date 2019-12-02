@@ -41,5 +41,5 @@ echo -e ${G}"[+]${W} Contactame ${link}.."
 echo -e ${G}"[+]${W} Usage ${Usage}"
 echo
 chmod +x ${home}/FotoSploit
-rm -rf ${home}/install.s
+rm -rf ${home}/install.sh
 exit
