@@ -60,19 +60,31 @@ FotoSploit> show options
  ===============
 
    Comandos          descripsion
+   
 
    show options      opciones
+   
    set foto          [option]
+   
    set title url     [Titulo]
+   
    set view          [FACEBOOK][YOUTUBE]
+   
    GO                Comenzar
+   
    run               Comenzar
+   
    exit              Salir
+   
 
    set title url Cesar-Hack-Gray (example)
+   
    set foto [youtube] [FreeFire] [PUBG]
+   
    [Anime] [pornografia] [Bokep] [facebook]
+   
    [/sdcard/example.jpg]
+   
 
 
    SET FOTO :
