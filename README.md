@@ -14,5 +14,10 @@
     bash install.sh 
     ./FotoSploit 
     
-# Screenhost {Eyes!!!!!} El link solo saca la foto en whatzapp o en telegram en Messenger no saca la imagen [foto]
+# Screenhost
 ![e](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
+# Eye!!!
+     El link portador por serveo o ngrok les informo que
+     en messenger [facebook] no saca la foto de la víctima:(
+     el link solo saca la foto en Whatzapp o en telegram u otro chat
+     ok!
