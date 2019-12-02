@@ -27,16 +27,16 @@
             ___           _,.---,---.,_
             |         ,;~'             '~;,
             |       ,;                     ;,
-   Frontal  |      ;                        ; ,--- Supraorbital Foramen
-    Bone    |     ,'                        /'
-            |    ,;                       /' ;,
-            |    ; ;      .          . <-'  ; |
-            |__  | ;   ______       ______   ;<----- Coronal Suture
-            ___   |  '/~ ~ . ~ ~\'  |
-           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
- Maxilla,  |      |   |        }:{        | <------ Orbit
-Nasal and  |      |   l       / | \       !   |
-Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
+     Frontal  |      ;                        ; ,--- Supraorbital Foramen
+      Bone    |     ,'                        /'
+              |    ,;                       /' ;,
+              |    ; ;      .          . <-'  ; |
+              |__  | ;   ______       ______   ;<----- Coronal Suture
+              ___   |  '/~ ~ . ~ ~\'  |
+             |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+   Maxilla,  |      |   |        }:{        | <------ Orbit
+  Nasal and  |      |   l       / | \       !   |
+  Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
   Bones    |      |    ----;' / | \  ;-<--------- Infraorbital Foramen
            |__     \__.       \/^\/       .__
               ___   V| \                 / |V <--- Mastoid Process
