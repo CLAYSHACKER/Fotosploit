@@ -38,15 +38,15 @@
      Nasal and  |       |   l       / | \       !   |
      Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
        Bones    |      |    ----;' / | \  ;-<--------- Infraorbital Foramen
-             |__     \__.       \/^\/       .__
-                  ___   V| \                 / |V <--- Mastoid Process
-                  |      | |T~\___!___!___/~T| |
-                  |      | | IIII_I_I_I_IIII | |
-         Mandible |      |  \ III I I I III,/  |
-                  |       \    ~~~~~~~~~~
-                 |         \   .       . <-x---- Mental Foramen
-                  |__         \.    ^    .
-                                ^~~~^~~~^
+             |__       \__.       \/^\/       .__
+                  ___    V| \                 / |V <--- Mastoid Process
+                  |       | |T~\___!___!___/~T| |
+                  |       | | IIII_I_I_I_IIII | |
+         Mandible |       |  \ III I I I III,/  |
+                  |        \    ~~~~~~~~~~
+                 |          \   .       . <-x---- Mental Foramen
+                  |__          \.    ^    .
+                                 ^~~~^~~~^
   _________________________________________________________________
             
             
