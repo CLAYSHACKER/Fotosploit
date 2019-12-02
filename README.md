@@ -8,6 +8,7 @@
     pkg install -y php
     pkg install -y python2
     pkg install -y git
+    cd $HOME
     git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
     cd FotoSploit
     ls
@@ -21,6 +22,9 @@
      en messenger [facebook] no saca la foto de la víctima:(
      el link solo saca la foto en Whatzapp o en telegram u otro chat
      ok!
+# Comunity : https://t.me/CesarGray : https://www.CesarHackGray : https://t.me/CesarHackGray
+# Channel  : http://youtube.com/c/CésarHackGray_Y_Miickeyy : https://t.me/CesarHackGrayCanal
+.
 # Usage
     
       _____________________________________________________________________
