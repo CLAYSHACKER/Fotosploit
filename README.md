@@ -14,5 +14,5 @@
     bash install.sh 
     ./FotoSploit 
     
-# Screenhost 
+# Screenhost {Eyes!!!!!} El link solo saca la foto en whatzapp o en telegram en Messenger no saca la imagen [foto]
 ![e](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
