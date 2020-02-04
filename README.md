@@ -22,6 +22,19 @@
     ls
     bash install.sh 
     ./FotoSploit 
+# Installation FotoSploit premium
+    pkg update && pkg upgrade -y
+    pkg install -y php
+    pkg install -y python2
+    pkg install -y git
+    CD $HOME
+    git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
+    cd FotoSploit 
+    ls
+    bash install.sh --install --premium
+    ./FotoSploit [option]
+    
+https://youtu.be/3dDCzze600I
     
 # Screenhost
 ![e](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
